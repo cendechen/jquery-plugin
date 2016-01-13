@@ -1,5 +1,7 @@
 /**
  * Created by cjl on 2015-12-19.
+ * 全屏滑动插件 支持垂直和水平滑动
+ * 选中父元素
  */
 (function($){
     var _prefix = (function(ele){

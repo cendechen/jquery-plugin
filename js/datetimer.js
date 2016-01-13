@@ -1,5 +1,6 @@
 /**
  * Created by cjl on 2015-12-13.
+ * 时间选择插件
  */
 (function($){
     var options = {

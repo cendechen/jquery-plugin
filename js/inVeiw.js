@@ -1,5 +1,8 @@
 /**
  * Created by cjl on 2016-01-13.
+ * 预加载插件
+ * 当元素出现可见文档中的时候
+ * 执行回掉并给成功的元素添加successClass
  */
 (function($){
     function contain(view,bound){
